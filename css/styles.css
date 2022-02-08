@@ -35,6 +35,7 @@ main {
   width: 100%;
   position: relative;
   overflow: hidden;
+  padding-top: 12rem;
 }
 
 .card-container {
@@ -212,7 +213,7 @@ main {
 footer {
   font-size: 11px;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 14rem;
 }
 
 a {
